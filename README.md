@@ -8,3 +8,4 @@
 * All changes require maintenance
 * Start small, improve it, then extend.
 * Don’t reinvent the wheel 
+* # and so on
